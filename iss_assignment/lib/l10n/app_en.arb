@@ -1,0 +1,81 @@
+{
+    "scan": "SCAN",
+    "@scan": {
+        "description": "SCAN QR code title"
+    },
+
+    "permissionTitle": "No Permission",
+    "@permissionTitle": {
+        "description": "Permission title for Camera"
+    },
+
+    "cancel": "Cancel",
+    "@cancel": {
+        "description": "Cancel an acitivity or a process"
+    },
+
+    "confirm": "Confirm",
+    "@confirm": {
+        "description": "Confirm an acitivity"
+    },
+
+    "okay": "OK",
+    "@okay": {
+        "description": "OK Button Text"
+    },
+
+    "pendingInstallation": "Pending installations",
+    "@pendingInstallation": {
+        "description": "Show the text of Pending Installations"
+    },
+
+    "doneInstallation": "Done installations",
+    "@doneInstallation": {
+        "description": "Show the text of completed Installations"
+    },
+
+    "makeInstallation": "Make installations",
+    "@makeInstallation": {
+        "description": "Show the text of Make Installations"
+    },
+
+    "confirmDialogTitle": "Confirm Installation ?",
+    "@confirmDialogTitle": {
+        "description": "Confirm Dialog Title"
+    },
+
+    "confirmDialogsubTitle": "This actions is irreversible",
+    "@confirmDialogsubTitle": {
+        "description": "Confirm Dialog SubTitle"
+    },
+
+    "floorName": "Floor name {floor_name}",
+    "@floorName": {
+        "description": "FloorName and its value",
+        "placeholders": {
+            "floor_name": {
+                "type": "String?"
+            }
+        }
+    },
+
+    "floorLevel": "Floor level {floorLevel}",
+    "@floorLevel": {
+        "description": "Floor Level and its value",
+        "placeholders": {
+            "floorLevel": {
+                "type": "int?"
+            }
+        }
+    },
+
+    "noPendingInstall": "No Installations Are Pending.",
+    "@noPendingInstall": {
+        "description": "Handing Endge case for No Pending installations"
+    },
+
+    "noPendingInstallSubTitle": "All Instllations are completed.",
+    "@noPendingInstallSubTitle": {
+        "description": "Handing Endge case for No Pending installations Subtitle"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "scan": "SCANNEN",
+
+    "permissionTitle": "Keine Berechtigung",
+
+    "cancel": "Abbrechen",
+
+    "confirm": "Bestätigen",
+
+    "pendingInstallation": "Ausstehende Installationen",
+
+    "doneInstallation": "Fertiggestellte Installationen",
+
+    "makeInstallation": "Installationen durchführen",
+
+    "confirmDialogTitle": "Installation bestätigen?",
+
+    "confirmDialogsubTitle": "Diese Aktion ist irreversibel",
+
+    "floorName": "Etagenname {floor_name}",
+
+    "floorLevel": "Bodenebene {floorLevel}",
+
+    "okay": "OK",
+
+    "noPendingInstall": "Es stehen keine Installationen aus.",
+    
+    "noPendingInstallSubTitle": "Alle Installationen sind abgeschlossen."
+
+}
